@@ -16,7 +16,7 @@
                         <div class="pl-2 font-weight-bold">
                             <a class="text-dark" href="/profile/{{ $post->user->id }}">{{ $post->user->username }}</a>
                             <img src="/images/svg/dot.svg" class="pl-1" style="max-height: 9px; max-width: 9px">
-                            <a href="#" class="pl-1">Follow</a>
+                            <a href="#" class="pl-1">Підписатись</a>
                         </div>
                     </div>
                 </div>
