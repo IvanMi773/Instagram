@@ -4,8 +4,8 @@ This is copy of Instagram
 
 # For start this app need:
 
-Copy this repo into your compyter
-- git clone
+Copy this repo into your computer
+- git clone https://github.com/IvanMi773/Instagram.git
 
 Install all dependencies using composer
 - composer install
@@ -17,7 +17,7 @@ Start development sever
 - php artisan serve
 
 
-## In this app been installed this librarys/instryments
+## In this app has been installed this libraries/instruments
 
 Telescope: for development
 - composer require laravel/telescope
